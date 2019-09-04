@@ -1,0 +1,44 @@
+Input JSON:                                                                                                                         
+                                                                                                                                    
+{                                                                                                                                   
+  "albumId": 10,                                                                                                                    
+  "id": 451,                                                                                                                        
+  "title": "dolorem accusantium corrupti incidunt quas ex est",                                                                     
+  "url": "https://via.placeholder.com/600/5e912a",                                                                                  
+  "thumbnailUrl": "https://via.placeholder.com/150/5e912a"                                                                          
+}                                                                                                                                   
+{                                                                                                                                   
+  "albumId": 10,                                                                                                                    
+  "id": 452,                                                                                                                        
+  "title": "mollitia dolorem qui",                                                                                                  
+  "url": "https://via.placeholder.com/600/e30072",                                                                                  
+  "thumbnailUrl": "https://via.placeholder.com/150/e30072"                                                                          
+}                                                                                                                                   
+{                                                                                                                                   
+  "albumId": 75,                                                                                                                    
+  "id": 3701,                                                                                                                       
+  "title": "quo et rerum soluta totam ut nisi",                                                                                     
+  "url": "https://via.placeholder.com/600/3b6ef8",                                                                                  
+  "thumbnailUrl": "https://via.placeholder.com/150/3b6ef8"                                                                          
+}                                                                                                                                   
+{                                                                                                                                   
+  "albumId": 75,                                                                                                                    
+  "id": 3702,                                                                                                                       
+  "title": "repudiandae nihil occaecati voluptatem nobis saepe odit",                                                               
+  "url": "https://via.placeholder.com/600/7b8a8e",                                                                                  
+  "thumbnailUrl": "https://via.placeholder.com/150/7b8a8e"                                                                          
+}                                                                                                                                   
+                                                                                                                                    
+                                                                                                                                    
+Extracted Photo Data:                                                                                                               
+                                                                                                                                    
+Album Photo                                                                                                                         
+   Id    Id Title                                      Thumbnail Uri                          Uri                                   
+----- ----- ------------------------------------------ -------------------------------------- --------------------------------------
+   10   451 dolorem accusantium corrupti incidunt quas https://via.placeholder.com/150/5e912a https://via.placeholder.com/600/5e912a
+            ex est                                                                                                                  
+   10   452 mollitia dolorem qui                       https://via.placeholder.com/150/e30072 https://via.placeholder.com/600/e30072
+   75  3701 quo et rerum soluta totam ut nisi          https://via.placeholder.com/150/3b6ef8 https://via.placeholder.com/600/3b6ef8
+   75  3702 repudiandae nihil occaecati voluptatem     https://via.placeholder.com/150/7b8a8e https://via.placeholder.com/600/7b8a8e
+            nobis saepe odit                                                                                                        
+                                                                                                                                    

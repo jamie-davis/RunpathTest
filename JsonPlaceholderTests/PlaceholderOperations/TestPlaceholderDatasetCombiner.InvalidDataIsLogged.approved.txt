@@ -1,0 +1,31 @@
+                                                                                      Exception
+Time                  Log Level Message                                               Text     
+------------------- ----------- ----------------------------------------------------- ---------
+11/06/2017 11:09:21 Information [0] Cannot extract userId from album. Json:                    
+                                {"userId":"bad","id":1,"title":"quidem molestiae               
+                                enim"}                                                         
+11/06/2017 11:09:21 Information [0] Cannot extract id from album. Json: {"userId":1,           
+                                "id":"bad","title":"sunt qui excepturi placeat                 
+                                culpa"}                                                        
+11/06/2017 11:09:21 Information [0] Cannot extract title from album. Json:                     
+                                {"userId":1,"id":3,"title":1}                                  
+11/06/2017 11:09:21 Information [0] Cannot extract id from photo. Json: {"albumId":4,          
+                                "id":"bad","title":"et accusantium enim pariatur eum           
+                                nihil fugit","url":"https://via.placeholder.                   
+                                com/600/a01c5b","thumbnailUrl":"https://via.                   
+                                placeholder.com/150/a01c5b"}                                   
+11/06/2017 11:09:21 Information [0] Cannot extract title from photo. Json:                     
+                                {"albumId":4,"id":153,"title":1,"url":"https://via.            
+                                placeholder.com/600/9da52c",                                   
+                                "thumbnailUrl":"https://via.placeholder.                       
+                                com/150/9da52c"}                                               
+11/06/2017 11:09:21 Information [0] Cannot extract url from photo. Json:                       
+                                {"albumId":4,"id":154,"title":"dolorum ipsam odit",            
+                                "url":1,"thumbnailUrl":"https://via.placeholder.               
+                                com/150/7f330f"}                                               
+11/06/2017 11:09:21 Information [0] Cannot extract thumbnailUrl from photo. Json:              
+                                {"albumId":4,"id":155,"title":"occaecati sed earum ab          
+                                ut vel quibusdam perferendis nihil",                           
+                                "url":"https://via.placeholder.com/600/877cd8",                
+                                "thumbnailUrl":1}                                              
+                                                                                               

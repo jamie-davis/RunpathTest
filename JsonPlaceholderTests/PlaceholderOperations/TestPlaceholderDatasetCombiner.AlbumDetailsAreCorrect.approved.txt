@@ -1,0 +1,33 @@
+Input JSON:                                                                                    
+                                                                                               
+{                                                                                              
+  "userId": 5,                                                                                 
+  "id": 41,                                                                                    
+  "title": "ea voluptates maiores eos accusantium officiis tempore mollitia consequatur"       
+}                                                                                              
+{                                                                                              
+  "userId": 5,                                                                                 
+  "id": 42,                                                                                    
+  "title": "tenetur explicabo ea"                                                              
+}                                                                                              
+{                                                                                              
+  "userId": 8,                                                                                 
+  "id": 71,                                                                                    
+  "title": "et vel corporis"                                                                   
+}                                                                                              
+{                                                                                              
+  "userId": 8,                                                                                 
+  "id": 72,                                                                                    
+  "title": "unde exercitationem ut"                                                            
+}                                                                                              
+                                                                                               
+                                                                                               
+Extracted Album Data:                                                                          
+                                                                                               
+Id          User Id Title                                                                      
+-- ---------------- ---------------------------------------------------------------------------
+41                5 ea voluptates maiores eos accusantium officiis tempore mollitia consequatur
+42                5 tenetur explicabo ea                                                       
+71                8 et vel corporis                                                            
+72                8 unde exercitationem ut                                                     
+                                                                                               
